@@ -7,7 +7,7 @@ For Physics:
 * [Computational Physics](https://drive.google.com/file/d/1VGUBtO6Apz3cGwFRiXiG_8PBw3aq1TJb/view?usp=drive_link)
 * [Analytical Mechanics](https://drive.google.com/file/d/1RfN6dQyymmRO67FN17hDBA1MIG84EY5v/view?usp=drive_link)
 * [Laboratory - Electronics](https://drive.google.com/file/d/1EZV5pYQFcCcmqSKSSTt2_ANMDwLPhEh-/view?usp=drive_link)
-* [Continium Medium Dynamics](https://drive.google.com/file/d/18H3_hwLO6uUy5VqmtA5pDhiPvQR1V8OG/view?usp=drive_link)
+* [Dynamics of the Continuous Medium](https://drive.google.com/file/d/18H3_hwLO6uUy5VqmtA5pDhiPvQR1V8OG/view?usp=drive_link)
 
 For Mathematics:
 * [Linear Algebra](https://drive.google.com/file/d/12hZOJerCfL2FZ9XgVwvTlCQ3gmp5cSMj/view?usp=drive_link)
